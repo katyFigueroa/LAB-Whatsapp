@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-chat",
+  "version": "1.0.0",
+  "description": "\"chat de whatsapp en node js\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://katyFigueroa@github.com/katyFigueroa/LAB-Whatsapp.git"
+  },
+  "author": "katy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katyFigueroa/LAB-Whatsapp/issues"
+  },
+  "homepage": "https://github.com/katyFigueroa/LAB-Whatsapp#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io":"^1.4.6"
+  }
+}
